@@ -443,6 +443,82 @@ nav .fa-bag-shopping:hover .shopping-menu {
   cursor: pointer;
 }
 
+.user-options {
+  padding: 90px 0;
+}
+
+.user-options img {
+  margin: 30px 44%;
+}
+
+.user-options .users-word {
+  font-family: "Lora";
+  font-style: italic;
+  color: #4b4747;
+  font-size: 24px;
+}
+
+.user-options .user-name {
+  text-align: center;
+  color: black;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  display: block;
+  margin-top: 30px;
+}
+
+.user-options .user-work {
+  font-size: 12px;
+  line-height: 24px;
+  text-transform: none;
+  color: #afafaf;
+  text-align: center;
+  display: block;
+  font-size: 14px;
+}
+
+footer {
+  background-color: #fefaf3;
+  padding: 90px 0 20px;
+}
+
+footer h6 {
+  font-family: Montserrat;
+  font-size: 12px;
+  letter-spacing: 2px;
+  font-weight: 600;
+  padding-bottom: 20px;
+}
+
+footer span {
+  font-family: Montserrat;
+  font-size: 12px;
+  color: #8b8b8b;
+  margin-bottom: 8px;
+}
+
+footer span span {
+  color: black;
+}
+
+footer span:hover {
+  cursor: pointer;
+  color: red;
+}
+
+footer p {
+  font-size: 8px;
+}
+
+footer p span {
+  margin-right: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
 @font-face {
   font-family: 'Lora';
   font-style: normal;
